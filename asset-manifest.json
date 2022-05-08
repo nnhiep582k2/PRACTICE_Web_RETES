@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Practice_web2/static/js/main.0fb53ad2.js",
+    "static/js/787.6da056bd.chunk.js": "/Practice_web2/static/js/787.6da056bd.chunk.js",
+    "static/media/house-6.jpg": "/Practice_web2/static/media/house-6.6d45b6a40b7c804fc253.jpg",
+    "static/media/house-4.jpg": "/Practice_web2/static/media/house-4.94ea2ff0b8d83a3322c5.jpg",
+    "static/media/house-5.jpg": "/Practice_web2/static/media/house-5.4eb78984862c6220c138.jpg",
+    "static/media/house-7.jpg": "/Practice_web2/static/media/house-7.af29500192e3bef5eee6.jpg",
+    "static/media/house-3.jpg": "/Practice_web2/static/media/house-3.c11093edf83fe89d0ee0.jpg",
+    "static/media/house-2.jpg": "/Practice_web2/static/media/house-2.f9fdb7fd9584450aafdd.jpg",
+    "static/media/house-1.jpg": "/Practice_web2/static/media/house-1.052ebfbb4d4413ecce02.jpg",
+    "index.html": "/Practice_web2/index.html",
+    "main.0fb53ad2.js.map": "/Practice_web2/static/js/main.0fb53ad2.js.map",
+    "787.6da056bd.chunk.js.map": "/Practice_web2/static/js/787.6da056bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0fb53ad2.js"
+  ]
+}
